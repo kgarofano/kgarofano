@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgarofano
 - 👀 I’m interested in cats, sci-fi, gaming, dogs, research science, agriculture, back-end software dev, coding for games, etc.
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m currently learning JavaScript and responsive web design.
 - 💞️ I’m looking to collaborate on basically anything. I want to learn as much as I can about as many things as I can. 
 - 📫 How to reach me almost everything is connected to my phone in some capacity so a message on here is likely the best first step towards communication.
 - 😄 Pronouns: she/her
